@@ -4,6 +4,19 @@ layout: default
 
 # Miguel Ramos
 
-Hi! My name is Miguel Ramos and I am a Master's student at [DCC@FCUP](https://www.dcc.fc.up.pt/site/).
+Hi! My name is Miguel Ramos and I am a PhD student in Computer Science at [DCC@FCUP](https://www.dcc.fc.up.pt/site/) and [IRIF@UParis](https://www.irif.fr/) under the supervision of [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html) and [Delia Kesner](https://www.irif.fr/~kesner/). Our research mainly focuses on the use of non-idempotent interesection types for the development of quantitative type systems for languages with pattern-matching and/or global state.
 
-My research is focused on Lambda Calculus, Type Theory and Programming Languages. Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html).
+Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here is some of my work:
+
+## Papers
+
+* Computer Science:
++ [Sandra Alves, Maribel Fernández, Miguel Ramos: EVL: A Typed Higher-order Functional Language for Events. LSFA 2020: 3-23](https://www.sciencedirect.com/science/article/pii/S1571066120300384?via%3Dihub)
++ [Sandra Alves, Miguel Ramos: An ML-style record calculus with extensible records. MFPS 2021: 1-17](https://arxiv.org/abs/2108.06296v2)
+
+* Bioinformatics:
++ ["Fishing for DNA? Designing baits for population genetics in target enrichment experiments: guidelines, considerations and the new tool s upeRbaits". Molecular Ecology Resources (2022)](http://dx.doi.org/10.1111/1755-0998.13598)
+
+## Msc Thesis
+
+* [Miguel Ramos (supervised by Sandra Alves): Typed Languages for Events and their Applications. Msc, Faculty of Science of The University of Porto](https://sigarra.up.pt/fcup/pt/pub_geral.show_file?pi_doc_id=311049)

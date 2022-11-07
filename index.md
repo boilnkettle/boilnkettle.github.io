@@ -26,12 +26,12 @@ Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here i
 
 * [Miguel Ramos (supervised by Sandra Alves): Typed Languages for Events and their Applications. MSc, Faculty of Science of The University of Porto](https://sigarra.up.pt/fcup/pt/pub_geral.show_file?pi_doc_id=311049)
 
-Lately, I've also been working as an invited teacher at [FCUP](https://www.fc.up.pt/site/) and [FEUP](https://www.fe.up.pt/site):
+Lately, I've also been working as an invited teacher at [FCUP](https://www.fc.up.pt/site/) and [FEUP](https://www.fe.up.pt/site).
 
 ## Teaching
 
-* Models of Computation
-    + 2nd Semester 2021/2022
+* Theory of Computation
+    + [2nd Semester 2021/2022](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=484423)
 
 * Discrete Mathematics
-    + 1st Semester 2022/2023
+    + [1st Semester 2022/2023](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501666)

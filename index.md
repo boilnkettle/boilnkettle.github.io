@@ -4,7 +4,7 @@ layout: default
 
 # Miguel Ramos
 
-Hi! My name is Miguel Ramos and I am a PhD student in Computer Science at [DCC@FCUP](https://www.dcc.fc.up.pt/site/) and [IRIF@UParis](https://www.irif.fr/) under the supervision of [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html) and [Delia Kesner](https://www.irif.fr/~kesner/). Our research mainly focuses on the use of non-idempotent interesection types for the development of quantitative type systems for languages with pattern-matching and/or global state.
+Hi! My name is Miguel Ramos, and I am a PhD student in Computer Science at [DCC@FCUP](https://www.dcc.fc.up.pt/site/) and [IRIF@UParis](https://www.irif.fr/) under the supervision of [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html) and [Delia Kesner](https://www.irif.fr/~kesner/). Our research mainly focuses on the use of non-idempotent intersection types for the development of quantitative type systems for languages with pattern-matching and/or global state.
 
 Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here is some of my work:
 
@@ -17,6 +17,21 @@ Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here i
 * Bioinformatics:
     + ["Fishing for DNA? Designing baits for population genetics in target enrichment experiments: guidelines, considerations and the new tool s upeRbaits". Molecular Ecology Resources (2022)](http://dx.doi.org/10.1111/1755-0998.13598)
 
+## Talks
+
+* [LSFA'22](https://lsfa2022.github.io/)
+    + [Extending the Quantitative Pattern-Matching Paradigm](https://lsfa2022.github.io/lsfa2022-preproc.pdf)
+
 ## Msc Thesis
 
-* [Miguel Ramos (supervised by Sandra Alves): Typed Languages for Events and their Applications. Msc, Faculty of Science of The University of Porto](https://sigarra.up.pt/fcup/pt/pub_geral.show_file?pi_doc_id=311049)
+* [Miguel Ramos (supervised by Sandra Alves): Typed Languages for Events and their Applications. MSc, Faculty of Science of The University of Porto](https://sigarra.up.pt/fcup/pt/pub_geral.show_file?pi_doc_id=311049)
+
+Lately, I've also been working as an invited teacher at [FCUP](https://www.fc.up.pt/site/) and [FEUP](https://www.fe.up.pt/site):
+
+## Teaching
+
+* Models of Computation
+    + 2nd Semester 2021/2022
+
+* Discrete Mathematics
+    + 1st Semester 2022/2023

@@ -4,7 +4,7 @@ layout: default
 
 # Miguel Ramos
 
-Hi! My name is Miguel Ramos, and I am a PhD student in Computer Science at [DCC@FCUP](https://www.dcc.fc.up.pt/site/) and [IRIF@UParis](https://www.irif.fr/) under the supervision of [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html) and [Delia Kesner](https://www.irif.fr/~kesner/). Our research mainly focuses on the use of non-idempotent intersection types for the development of quantitative type systems for languages with pattern-matching and/or global state.
+Hi! My name is Miguel Ramos, and I am a PhD student in Computer Science at [DCC@FCUP](https://www.dcc.fc.up.pt/site/) and [IRIF@UParis](https://www.irif.fr/) under the supervision of [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html) and [Delia Kesner](https://www.irif.fr/~kesner/). And our work mainly focuses on the use of non-idempotent intersection types to build resource aware semantics for different extensions of the λ-calculus.
 
 Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here is some of my work:
 

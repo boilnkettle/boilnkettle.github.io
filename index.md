@@ -11,16 +11,17 @@ Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here i
 ## Papers
 
 * Computer Science:
+    + [Sandra Alves, Delia Kesner, Miguel Ramos: Sample](https://boilnkettle.github.io/assets/papers/sample.pdf)
     + [Sandra Alves, Maribel Fernández, Miguel Ramos: EVL: A Typed Higher-order Functional Language for Events. LSFA 2020: 3-23](https://www.sciencedirect.com/science/article/pii/S1571066120300384?via%3Dihub)
     + [Sandra Alves, Miguel Ramos: An ML-style record calculus with extensible records. MFPS 2021: 1-17](https://arxiv.org/abs/2108.06296v2)
 
 * Bioinformatics:
-    + ["Fishing for DNA? Designing baits for population genetics in target enrichment experiments: guidelines, considerations and the new tool s upeRbaits". Molecular Ecology Resources (2022)](http://dx.doi.org/10.1111/1755-0998.13598)
+    + ["Fishing for DNA? Designing baits for population genetics in target enrichment experiments: guidelines, considerations and the new tool supeRbaits". Molecular Ecology Resources (2022)](http://dx.doi.org/10.1111/1755-0998.13598)
 
 ## Talks
 
 * [LSFA'22](https://lsfa2022.github.io/)
-    + [Extending the Quantitative Pattern-Matching Paradigm](https://lsfa2022.github.io/lsfa2022-preproc.pdf)
+    + [Sandra Alves, Delia Kesner, Miguel Ramos: Extending the Quantitative Pattern-Matching Paradigm](https://lsfa2022.github.io/lsfa2022-preproc.pdf)
 
 ## Msc Thesis
 

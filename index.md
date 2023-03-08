@@ -12,20 +12,19 @@ Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here i
 
 * Computer Science:
     + [Sandra Alves, Delia Kesner, Miguel Ramos: Quantitative Global Memory (Full) \[*Submitted*: WoLLIC 2023\]](https://boilnkettle.github.io/assets/papers/quantitative-global-memory-full.pdf)
-    + [Sandra Alves, Maribel Fernández, Miguel Ramos: EVL: A Typed Higher-order Functional Language for Events. LSFA 2020: 3-23](https://www.sciencedirect.com/science/article/pii/S1571066120300384?via%3Dihub)
-    + [Sandra Alves, Miguel Ramos: An ML-style record calculus with extensible records. MFPS 2021: 1-17](https://arxiv.org/abs/2108.06296v2)
+    + [Sandra Alves, Miguel Ramos: An ML-style record calculus with extensible records. \[MFPS 2021\]](https://arxiv.org/abs/2108.06296v2)
+    + [Sandra Alves, Maribel Fernández, Miguel Ramos: EVL: A Typed Higher-order Functional Language for Events. \[LSFA 2020\]](https://www.sciencedirect.com/science/article/pii/S1571066120300384?via%3Dihub)
 
 * Bioinformatics:
-    + ["Fishing for DNA? Designing baits for population genetics in target enrichment experiments: guidelines, considerations and the new tool supeRbaits". Molecular Ecology Resources (2022)](http://dx.doi.org/10.1111/1755-0998.13598)
+    + ["Fishing for DNA? Designing baits for population genetics in target enrichment experiments: guidelines, considerations and the new tool supeRbaits". \[Molecular Ecology Resources 2022\]](http://dx.doi.org/10.1111/1755-0998.13598)
 
 ## Talks
 
-* [LSFA'22](https://lsfa2022.github.io/)
-    + [Sandra Alves, Delia Kesner, Miguel Ramos: Extending the Quantitative Pattern-Matching Paradigm](https://lsfa2022.github.io/lsfa2022-preproc.pdf)
++ [Sandra Alves, Delia Kesner, Miguel Ramos: Extending the Quantitative Pattern-Matching Paradigm \[LSFA 2021 \]](https://lsfa2022.github.io/lsfa2022-preproc.pdf)
 
 ## Msc Thesis
 
-* [Miguel Ramos (supervised by Sandra Alves): Typed Languages for Events and their Applications. MSc, Faculty of Science of The University of Porto](https://sigarra.up.pt/fcup/pt/pub_geral.show_file?pi_doc_id=311049)
+* [Miguel Ramos (supervised by Sandra Alves): Typed Languages for Events and their Applications. \[FCUP 2021\]](https://sigarra.up.pt/fcup/pt/pub_geral.show_file?pi_doc_id=311049)
 
 Lately, I've also been working as an invited teacher at [FCUP](https://www.fc.up.pt/site/) and [FEUP](https://www.fe.up.pt/site).
 

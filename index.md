@@ -11,7 +11,7 @@ Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here i
 ## Papers
 
 * Computer Science:
-    + [Sandra Alves, Delia Kesner, Miguel Ramos: Quantitative Global Memory (Full) \[*Submitted*: WoLLIC 2023\]](https://boilnkettle.github.io/assets/papers/sample.pdf)
+    + [Sandra Alves, Delia Kesner, Miguel Ramos: Quantitative Global Memory (Full) \[*Submitted*: WoLLIC 2023\]](https://boilnkettle.github.io/assets/papers/quantitative-global-memory-full.pdf)
     + [Sandra Alves, Maribel Fernández, Miguel Ramos: EVL: A Typed Higher-order Functional Language for Events. LSFA 2020: 3-23](https://www.sciencedirect.com/science/article/pii/S1571066120300384?via%3Dihub)
     + [Sandra Alves, Miguel Ramos: An ML-style record calculus with extensible records. MFPS 2021: 1-17](https://arxiv.org/abs/2108.06296v2)
 

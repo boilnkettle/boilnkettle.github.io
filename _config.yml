@@ -21,7 +21,7 @@
 title: boilnkettle
 email: jmiguelsramos@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-      ""
+  My email: (λx.(λy.(λz.(x@y.z)))) (jmiguelsramos) (gmail) (com)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: boilnkettle

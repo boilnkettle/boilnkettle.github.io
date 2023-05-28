@@ -11,12 +11,16 @@ Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here i
 ## Papers
 
 * Computer Science:
-    + [Sandra Alves, Delia Kesner, Miguel Ramos: Quantitative Global Memory (Full) \[*To appear*: WoLLIC 2023\]](https://boilnkettle.github.io/assets/papers/quantitative-global-memory-full.pdf)
+    + [Sandra Alves, Delia Kesner, Miguel Ramos: Quantitative Global Memory. \[WoLLIC 2023\]](https://arxiv.org/pdf/2303.08940.pdf)
     + [Sandra Alves, Miguel Ramos: An ML-style record calculus with extensible records. \[MFPS 2021\]](https://arxiv.org/abs/2108.06296v2)
     + [Sandra Alves, Maribel Fernández, Miguel Ramos: EVL: A Typed Higher-order Functional Language for Events. \[LSFA 2020\]](https://www.sciencedirect.com/science/article/pii/S1571066120300384?via%3Dihub)
 
 * Bioinformatics:
     + ["Fishing for DNA? Designing baits for population genetics in target enrichment experiments: guidelines, considerations and the new tool supeRbaits". \[Molecular Ecology Resources 2022\]](http://dx.doi.org/10.1111/1755-0998.13598)
+
+## Workshop Papers
+
+* [Miguel Ramos, Riccardo Treglia, Delia Kesner: Quantitative Understanding of Exceptions \[TLLA 2023\]](https://boilnkettle.github.io/assets/papers/quantitative-understanding-of-exceptions.pdf)
 
 ## Talks
 

@@ -27,7 +27,7 @@ Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here i
 
 * [Miguel Ramos (supervised by Sandra Alves): Typed Languages for Events and their Applications. \[FCUP 2021\]](https://sigarra.up.pt/fcup/pt/pub_geral.show_file?pi_doc_id=311049)
 
-Lately, I've also been working as an invited teacher at [FCUP](https://www.fc.up.pt/site/) and [FEUP](https://www.fe.up.pt/site).
+Lately, I've also been working as an teaching assistant at [FCUP](https://www.fc.up.pt/site/) and [FEUP](https://www.fe.up.pt/site).
 
 ## Teaching
 

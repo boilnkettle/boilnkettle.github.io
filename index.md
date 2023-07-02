@@ -23,12 +23,13 @@ Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here i
 * [Miguel Ramos, Riccardo Treglia, Delia Kesner: Quantitative Understanding of Exceptions \[TLLA 2023\]](https://boilnkettle.github.io/assets/papers/quantitative-understanding-of-exceptions.pdf)
 * [Sandra Alves, Delia Kesner, Miguel Ramos: Extending the Quantitative Pattern-Matching Paradigm \[LSFA 2021\]](https://lsfa2022.github.io/lsfa2022-preproc.pdf)
 
-## Seminars
-* [Miguel Ramos: Quantitative CBV Global Memory \[SMS@IRIF 2023\]](https://boilnkettle.github.io/assets/presentations/sms23.pdf)
+## Presentations
+* [A Quantitative Understading of Exceptions \[TLLA 2023\]](https://boilnkettle.github.io/assets/presentations/tlla23.pdf)
+* [Quantitative CBV Global Memory \[SMS@IRIF 2023\]](https://boilnkettle.github.io/assets/presentations/sms23.pdf)
 
 ## Msc Thesis
 
-* [Miguel Ramos (supervised by Sandra Alves): Typed Languages for Events and their Applications. \[FCUP 2021\]](https://sigarra.up.pt/fcup/pt/pub_geral.show_file?pi_doc_id=311049)
+* [Supervised by Sandra Alves: Typed Languages for Events and their Applications \[FCUP 2021\]](https://sigarra.up.pt/fcup/pt/pub_geral.show_file?pi_doc_id=311049)
 
 Lately, I've also been working as an teaching assistant at [FCUP](https://www.fc.up.pt/site/) and [FEUP](https://www.fe.up.pt/site).
 

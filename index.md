@@ -32,7 +32,7 @@ Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here i
 
 - [Sandra Alves, Delia Kesner, Miguel Ramos: Quantitative Global Memory \[WoLLIC 2023\]](https://arxiv.org/pdf/2303.08940.pdf)
 - [Sandra Alves, Miguel Ramos: An ML-style record calculus with extensible records \[MFPS 2021\]](https://arxiv.org/abs/2108.06296v2)
-- [Sandra Alves, Maribel Fernández, Miguel Ramos: EVL: A Typed Higher-order Functional Language for Events \[LSFA 2020\]](https://www.sciencedirect.com/science/article/pii/S1571066120300384?via%3Dihub)
+- [Sandra Alves, Maribel Fernández, Miguel Ramos: EVL: A Typed Higher-Order Functional Language for Events \[LSFA 2020\]](https://www.sciencedirect.com/science/article/pii/S1571066120300384?via%3Dihub)
 
 ## Workshops Papers
 

@@ -12,51 +12,51 @@ Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here i
 
 ### Submitted/Under Review
 
-- Computer Science:
+* Computer Science:
 
-  - Sandra Alves, Delia Kesner, Miguel Ramos: A Quantitative Approach to Global State Composition \[MSCS\]
+  + Sandra Alves, Delia Kesner, Miguel Ramos: A Quantitative Approach to Global State Composition \[MSCS\]
 
 ### Published
 
-- Bioinformatics:
+* Bioinformatics:
 
-  - [Fishing for DNA? Designing baits for population genetics in target enrichment experiments: guidelines, considerations and the new tool supeRbaits \[Molecular Ecology Resources 2022\]](http://dx.doi.org/10.1111/1755-0998.13598)
+  + [Fishing for DNA? Designing baits for population genetics in target enrichment experiments: guidelines, considerations and the new tool supeRbaits \[Molecular Ecology Resources 2022\]](http://dx.doi.org/10.1111/1755-0998.13598)
 
 ## Conference Papers
 
 ### Submitted/Under Review
 
-- Sandra Alves, Delia Kesner, Miguel Ramos: Extending the Quantitative Pattern-Matching Paradigm \[APLAS 2024\]
+* Sandra Alves, Delia Kesner, Miguel Ramos: Extending the Quantitative Pattern-Matching Paradigm \[APLAS 2024\]
 
 ### Published
 
-- [Sandra Alves, Delia Kesner, Miguel Ramos: Quantitative Global Memory \[WoLLIC 2023\]](https://arxiv.org/pdf/2303.08940.pdf)
-- [Sandra Alves, Miguel Ramos: An ML-style record calculus with extensible records \[MFPS 2021\]](https://arxiv.org/abs/2108.06296v2)
-- [Sandra Alves, Maribel Fernández, Miguel Ramos: EVL: A Typed Higher-Order Functional Language for Events \[LSFA 2020\]](https://www.sciencedirect.com/science/article/pii/S1571066120300384?via%3Dihub)
+* [Sandra Alves, Delia Kesner, Miguel Ramos: Quantitative Global Memory \[WoLLIC 2023\]](https://arxiv.org/pdf/2303.08940.pdf)
+* [Sandra Alves, Miguel Ramos: An ML-style record calculus with extensible records \[MFPS 2021\]](https://arxiv.org/abs/2108.06296v2)
+* [Sandra Alves, Maribel Fernández, Miguel Ramos: EVL: A Typed Higher-Order Functional Language for Events \[LSFA 2020\]](https://www.sciencedirect.com/science/article/pii/S1571066120300384?via%3Dihub)
 
 ## Workshops Papers
 
-- Miguel Ramos: Non-Idempotent Intersection Types for Global State \[ITRS 2024\]
-- [Miguel Ramos, Riccardo Treglia, Delia Kesner: Quantitative Understanding of Exceptions \[TLLA 2023\]](https://boilnkettle.github.io/assets/papers/quantitative-understanding-of-exceptions.pdf)
-- [Sandra Alves, Delia Kesner, Miguel Ramos: Extending the Quantitative Pattern-Matching Paradigm \[LSFA 2021\]](https://lsfa2022.github.io/lsfa2022-preproc.pdf)
+* Miguel Ramos: Non-Idempotent Intersection Types for Global State \[ITRS 2024\]
+* [Miguel Ramos, Riccardo Treglia, Delia Kesner: Quantitative Understanding of Exceptions \[TLLA 2023\]](https://boilnkettle.github.io/assets/papers/quantitative-understanding-of-exceptions.pdf)
+* [Sandra Alves, Delia Kesner, Miguel Ramos: Extending the Quantitative Pattern-Matching Paradigm \[LSFA 2021\]](https://lsfa2022.github.io/lsfa2022-preproc.pdf)
 
 ## Presentations
 
-- [Quantitative Global Memory \[WoLLIC 2023\]](https://boilnkettle.github.io/assets/presentations/wollic23.pdf)
-- [A Quantitative Understanding of Exceptions \[TLLA 2023\]](https://boilnkettle.github.io/assets/presentations/tlla23.pdf)
-- [Quantitative CBV Global Memory \[SMS@IRIF 2023\]](https://boilnkettle.github.io/assets/presentations/sms23.pdf)
+* [Quantitative Global Memory \[WoLLIC 2023\]](https://boilnkettle.github.io/assets/presentations/wollic23.pdf)
+* [A Quantitative Understanding of Exceptions \[TLLA 2023\]](https://boilnkettle.github.io/assets/presentations/tlla23.pdf)
+* [Quantitative CBV Global Memory \[SMS@IRIF 2023\]](https://boilnkettle.github.io/assets/presentations/sms23.pdf)
 
 ## MSc Thesis
 
-- [Supervised by Sandra Alves: Typed Languages for Events and their Applications \[FCUP 2021\]](https://sigarra.up.pt/fcup/pt/pub_geral.show_file?pi_doc_id=311049)
+* [Supervised by Sandra Alves: Typed Languages for Events and their Applications \[FCUP 2021\]](https://sigarra.up.pt/fcup/pt/pub_geral.show_file?pi_doc_id=311049)
 
 Lately, I've also been working as a teaching assistant at [FCUP](https://www.fc.up.pt/site/) and [FEUP](https://www.fe.up.pt/site).
 
 ## Teaching
 
-- Theory of Computation
+* Theory of Computation
 
-  - [2nd Semester 2021/2022](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=484423)
+  + [2nd Semester 2021/2022](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=484423)
 
-- Discrete Mathematics
-  - [1st Semester 2022/2023](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501666)
+* Discrete Mathematics
+  + [1st Semester 2022/2023](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501666)

@@ -24,12 +24,11 @@ Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here i
 
 ## Conference Papers
 
-### Submitted/Under Review
-
-* Sandra Alves, Delia Kesner, Miguel Ramos: Extending the Quantitative Pattern-Matching Paradigm \[APLAS 2024\]
+<!-- ### Submitted/Under Review -->
 
 ### Published
 
+* [Sandra Alves, Delia Kesner, Miguel Ramos: Extending the Quantitative Pattern-Matching Paradigm \[APLAS 2024\]](https://link.springer.com/chapter/10.1007/978-981-97-8943-6_5)
 * [Sandra Alves, Delia Kesner, Miguel Ramos: Quantitative Global Memory \[WoLLIC 2023\]](https://arxiv.org/pdf/2303.08940.pdf)
 * [Sandra Alves, Miguel Ramos: An ML-style record calculus with extensible records \[MFPS 2021\]](https://arxiv.org/abs/2108.06296v2)
 * [Sandra Alves, Maribel Fernández, Miguel Ramos: EVL: A Typed Higher-Order Functional Language for Events \[LSFA 2020\]](https://www.sciencedirect.com/science/article/pii/S1571066120300384?via%3Dihub)
@@ -38,10 +37,17 @@ Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here i
 
 * Miguel Ramos: Non-Idempotent Intersection Types for Global State \[ITRS 2024\]
 * [Miguel Ramos, Riccardo Treglia, Delia Kesner: Quantitative Understanding of Exceptions \[TLLA 2023\]](https://boilnkettle.github.io/assets/papers/quantitative-understanding-of-exceptions.pdf)
-* [Sandra Alves, Delia Kesner, Miguel Ramos: Extending the Quantitative Pattern-Matching Paradigm \[LSFA 2021\]](https://lsfa2022.github.io/lsfa2022-preproc.pdf)
+<!-- * [Sandra Alves, Delia Kesner, Miguel Ramos: Extending the Quantitative Pattern-Matching Paradigm \[LSFA 2021\]](https://lsfa2022.github.io/lsfa2022-preproc.pdf) -->
+
+## Peer-Reviewing
+
+* Subreviewer at [CSL 2025](https://csl2025.github.io/)
+* Subreviewer at [PPDP 2024](https://ppdp2024.github.io/)
+* Subreviewer at [MFPS 2022](https://www.cs.cornell.edu/mfps-2022/)
 
 ## Presentations
 
+* [Extending the Quantitative Pattern-Matching Paradigm \[APLAS 2024\]](https://boilnkettle.github.io/assets/presentations/aplas24.pdf)
 * [Quantitative Global Memory \[WoLLIC 2023\]](https://boilnkettle.github.io/assets/presentations/wollic23.pdf)
 * [A Quantitative Understanding of Exceptions \[TLLA 2023\]](https://boilnkettle.github.io/assets/presentations/tlla23.pdf)
 * [Quantitative CBV Global Memory \[SMS@IRIF 2023\]](https://boilnkettle.github.io/assets/presentations/sms23.pdf)
@@ -56,7 +62,10 @@ Lately, I've also been working as a teaching assistant at [FCUP](https://www.fc.
 
 * Theory of Computation
 
+  + [2nd Semester 2024/2025](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=541875)
   + [2nd Semester 2021/2022](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=484423)
 
 * Discrete Mathematics
+
+  + [1st Semester 2024/2025](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=541869)
   + [1st Semester 2022/2023](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501666)

@@ -41,6 +41,7 @@ Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here i
 
 ## Peer-Reviewing
 
+* Subreviewer at [FSCD 2025](https://fscd2025.github.io/cfp.htm)
 * Subreviewer at [CSL 2025](https://csl2025.github.io/)
 * Subreviewer at [PPDP 2024](https://ppdp2024.github.io/)
 * Subreviewer at [MFPS 2022](https://www.cs.cornell.edu/mfps-2022/)

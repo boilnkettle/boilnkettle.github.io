@@ -10,13 +10,13 @@ Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here i
 
 ## Journal Papers
 
-### Submitted/Under Review
+<!-- ### Submitted/Under Review -->
+
+<!-- ### Published -->
 
 * Computer Science:
 
-  + Sandra Alves, Delia Kesner, Miguel Ramos: A Quantitative Approach to Global State Composition \[MSCS\]
-
-### Published
+  + Sandra Alves, Delia Kesner, Miguel Ramos: A Quantitative Approach to Global State Composition \[MSCS\](https://doi.org/10.1017/S0960129525100285)
 
 * Bioinformatics:
 
@@ -26,7 +26,7 @@ Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here i
 
 <!-- ### Submitted/Under Review -->
 
-### Published
+<!-- ### Published -->
 
 * [Sandra Alves, Delia Kesner, Miguel Ramos: Extending the Quantitative Pattern-Matching Paradigm \[APLAS 2024\]](https://link.springer.com/chapter/10.1007/978-981-97-8943-6_5)
 * [Sandra Alves, Delia Kesner, Miguel Ramos: Quantitative Global Memory \[WoLLIC 2023\]](https://arxiv.org/pdf/2303.08940.pdf)
@@ -67,6 +67,6 @@ Lately, I've also been working as a teaching assistant at [FCUP](https://www.fc.
   + [2nd Semester 2021/2022](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=484423)
 
 * Discrete Mathematics
-
+  + [1st Semester 2025/2026](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560089)
   + [1st Semester 2024/2025](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=541869)
   + [1st Semester 2022/2023](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=501666)

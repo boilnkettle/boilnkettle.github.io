@@ -16,7 +16,7 @@ Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here i
 
 * Computer Science:
 
-  + Sandra Alves, Delia Kesner, Miguel Ramos: A Quantitative Approach to Global State Composition \[MSCS\](https://doi.org/10.1017/S0960129525100285)
+  + [Sandra Alves, Delia Kesner, Miguel Ramos: A Quantitative Approach to Global State Composition \[MSCS\]](https://doi.org/10.1017/S0960129525100285)
 
 * Bioinformatics:
 

@@ -45,8 +45,13 @@ Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here i
 * [Miguel Ramos, Riccardo Treglia, Delia Kesner: Quantitative Understanding of Exceptions \[TLLA 2023\]](https://boilnkettle.github.io/assets/papers/quantitative-understanding-of-exceptions.pdf)
 * [Sandra Alves, Delia Kesner, Miguel Ramos: Extending the Quantitative Pattern-Matching Paradigm \[LSFA 2021\]](https://lsfa2022.github.io/lsfa2022-preproc.pdf)
 
+## Program Committees
+
+* [ITRS 2026@FLOC 2026](https://itrs2026.tu-dortmund.de/)
+
 ## Peer-Reviewing
 
+* Subreviewer at [ICLP 2025](https://iclp25.demacs.unical.it/)
 * Subreviewer at [FSCD 2025](https://fscd2025.github.io/cfp.htm)
 * Subreviewer at [CSL 2025](https://csl2025.github.io/)
 * Subreviewer at [PPDP 2024](https://ppdp2024.github.io/)
@@ -61,7 +66,7 @@ Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here i
 
 ## PhD Thesis
 
-* Supervised by Sandra Alves and Delia Kesner: A Quantitative Study of Higher-Order Computations with Effects \[FCUP 2026\]
+* [Supervised by Sandra Alves and Delia Kesner: A Quantitative Study of Higher-Order Computations with Effects \[FCUP 2026\]](https://boilnkettle.github.io/assets/thesis/phd.pdf)
 
 ## MSc Thesis
 

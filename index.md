@@ -4,7 +4,11 @@ layout: default
 
 ![Pure vs Effectful Morning Coffees](assets/img/morning-coffees.png)
 
-Hi! My name is Miguel Ramos, and I am a PhD student in Computer Science at [DCC@FCUP](https://www.dcc.fc.up.pt/site/) and [IRIF@UParis](https://www.irif.fr/) under the supervision of [Sandra Alves](https://www.dcc.fc.up.pt/~sandra/Home/Home.html) and [Delia Kesner](https://www.irif.fr/~kesner/). And our work mainly focuses on the use of non-idempotent intersection types to build resource aware semantics for computational effects.
+Hi, I'm Miguel! I recently completed my PhD in Computer Science at the Faculty of Sciences of the University of Porto, where my thesis focused on the quantitative analysis of higher-order computation with effects. My research interests lie at the intersection of programming languages, logic, and semantics. In particular, I study non-idempotent intersection types and their applications to the quantitative analysis of effectful higher-order programs, including features such as global state, exceptions, and pattern matching.
+
+More recently, I have been investigating infinitary computation and the use of non-idempotent intersection types to characterize infinite computational behavior in both pure and effectful settings. Broadly speaking, my work aims to develop semantic and logical tools that provide a quantitative understanding of computation, bridging techniques from type theory, denotational semantics, and proof theory.
+
+I am a researcher at LIACC and was a visiting researcher at IRIF from 2021 to 2025. My work has appeared in Mathematical Structures in Computer Science and in venues such as MFPS, APLAS, and WoLLIC. I have also been actively involved in teaching and academic service, including courses in Discrete Mathematics and Theory of Computation, reviewing for conferences such as FSCD, CSL, and MFPS, and the organization of scientific workshops.
 
 Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here is some of my work:
 
@@ -16,7 +20,7 @@ Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here i
 
 * Computer Science:
 
-  + [Sandra Alves, Delia Kesner, Miguel Ramos: A Quantitative Approach to Global State Composition \[MSCS\]](https://doi.org/10.1017/S0960129525100285)
+  + [Sandra Alves, Delia Kesner, Miguel Ramos: A Quantitative Approach to Global State Composition \[MSCS 2025\]](https://doi.org/10.1017/S0960129525100285)
 
 * Bioinformatics:
 
@@ -24,9 +28,11 @@ Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here i
 
 ## Conference Papers
 
-<!-- ### Submitted/Under Review -->
+### Submitted/Under Review
 
-<!-- ### Published -->
+* Miguel Ramos, Gabriele Vanoni: The ω-CPO of Intersection Type Derivations \[ESOP 2026\]
+
+### Published
 
 * [Sandra Alves, Delia Kesner, Miguel Ramos: Extending the Quantitative Pattern-Matching Paradigm \[APLAS 2024\]](https://link.springer.com/chapter/10.1007/978-981-97-8943-6_5)
 * [Sandra Alves, Delia Kesner, Miguel Ramos: Quantitative Global Memory \[WoLLIC 2023\]](https://arxiv.org/pdf/2303.08940.pdf)
@@ -53,6 +59,10 @@ Here is my [dblp page](https://dblp.uni-trier.de/pid/82/8172-2.html), and here i
 * [A Quantitative Understanding of Exceptions \[TLLA 2023\]](https://boilnkettle.github.io/assets/presentations/tlla23.pdf)
 * [Quantitative CBV Global Memory \[SMS@IRIF 2023\]](https://boilnkettle.github.io/assets/presentations/sms23.pdf)
 
+## PhD Thesis
+
+* Supervised by Sandra Alves and Delia Kesner: A Quantitative Study of Higher-Order Computations with Effects \[FCUP 2026\]
+
 ## MSc Thesis
 
 * [Supervised by Sandra Alves: Typed Languages for Events and their Applications \[FCUP 2021\]](https://sigarra.up.pt/fcup/pt/pub_geral.show_file?pi_doc_id=311049)
@@ -62,7 +72,7 @@ Lately, I've also been working as a teaching assistant at [FCUP](https://www.fc.
 ## Teaching
 
 * Theory of Computation
-
+  + [2nd Semester 2025/2026](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560095)
   + [2nd Semester 2024/2025](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=541875)
   + [2nd Semester 2021/2022](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=484423)
 
